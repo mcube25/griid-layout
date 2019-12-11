@@ -79,6 +79,14 @@ a {
 .box > img {
     width: 100%;
 }
+.cover {
+    width: 30rem;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+}
 
 /***********************************************************************
  *  Footer
