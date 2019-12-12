@@ -54,8 +54,8 @@ a {
  *  Cover
  **********************************************************************/
 .container {
-    /*show heigh: auto*/
-    height: 50vh; 
+    /*show heigh: 50vh*/
+    height: auto ; 
     display: flex;
     align-items: center;
     justify-content: center;
