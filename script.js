@@ -47,3 +47,6 @@ function checkDriverAge() {
 //BONUS: Instead of using the prompt. Now, only use console.log and make the checkDriverAge() function accept an argument of age, so that if you enter:
 checkDriverAge(92);
 it returns "Powering On. Enjoy the ride!"
+//data structure.arrays
+var list = ['bear''lion''dog''bird'];
+console.log(list[1]);
