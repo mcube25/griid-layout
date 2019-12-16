@@ -1,7 +1,7 @@
 var database = [
     {
         username:'pale',
-        passwor: 'supercorrect'
+        password: 'supercorrect'
     }
 ];
 var newsfeed = [
